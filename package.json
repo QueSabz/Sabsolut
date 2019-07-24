@@ -1,6 +1,6 @@
 {
     "title": "Agency",
-    "name": "startbootstrap-agency",
+    "name": "Qetelo Sabasaba",
     "version": "5.2.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
